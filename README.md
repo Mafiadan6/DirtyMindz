@@ -8,4 +8,4 @@ Root manager hub — v4.3.
 - Six themes + custom accent
 - Soft-reboot module boot
 
-Downloads: http://45.95.113.164:8000/
+Downloads are published on the Releases page of this repository.
